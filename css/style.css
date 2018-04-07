@@ -35,6 +35,8 @@ font-size: 18px;
 font-weight: 700;
 padding: 17px 55px 17px 55px;
 margin-top: 33px;
+display: inline-block;
+text-decoration: none;
 }
 header small {
 	font-size: 12px;
@@ -132,6 +134,7 @@ footer {
 
 .footer-button {
 	display: inline-block;
+	text-decoration: none;
 	border: 1px solid #ffffff;
 	background-color: transparent;
 	color: #fff;
